@@ -13,9 +13,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mcstatus-io/mcutil/v4/formatting"
-	"github.com/mcstatus-io/mcutil/v4/options"
-	"github.com/mcstatus-io/mcutil/v4/response"
+	"github.com/gaogao-qwq/mcutil/v4/formatting"
+	"github.com/gaogao-qwq/mcutil/v4/options"
+	"github.com/gaogao-qwq/mcutil/v4/response"
 )
 
 var (

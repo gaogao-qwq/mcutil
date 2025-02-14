@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/jessevdk/go-flags"
-	"github.com/mcstatus-io/mcutil/v4/options"
-	"github.com/mcstatus-io/mcutil/v4/query"
-	"github.com/mcstatus-io/mcutil/v4/status"
+	"github.com/gaogao-qwq/mcutil/v4/options"
+	"github.com/gaogao-qwq/mcutil/v4/query"
+	"github.com/gaogao-qwq/mcutil/v4/status"
 )
 
 var (

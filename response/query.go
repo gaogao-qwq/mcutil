@@ -1,6 +1,6 @@
 package response
 
-import "github.com/mcstatus-io/mcutil/v4/formatting"
+import "github.com/gaogao-qwq/mcutil/v4/formatting"
 
 // QueryBasic is the response data returned from doing a basic query on a server.
 type QueryBasic struct {

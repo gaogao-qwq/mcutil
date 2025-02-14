@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/mcstatus-io/mcutil/v4/status"
-	"github.com/mcstatus-io/mcutil/v4/util"
+	"github.com/gaogao-qwq/mcutil/v4/status"
+	"github.com/gaogao-qwq/mcutil/v4/util"
 )
 
 func TestBedrock(t *testing.T) {

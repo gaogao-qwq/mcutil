@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/mcstatus-io/mcutil/v4/options"
-	"github.com/mcstatus-io/mcutil/v4/util"
+	"github.com/gaogao-qwq/mcutil/v4/options"
+	"github.com/gaogao-qwq/mcutil/v4/util"
 )
 
 // ModernRaw returns the raw status data of any 1.7+ Java Edition Minecraft server.

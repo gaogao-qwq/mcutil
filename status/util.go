@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/mcstatus-io/mcutil/v4/proto"
+	"github.com/gaogao-qwq/mcutil/v4/proto"
 )
 
 func writePacket(w io.Writer, data *bytes.Buffer) error {

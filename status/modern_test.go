@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/mcstatus-io/mcutil/v4/options"
-	"github.com/mcstatus-io/mcutil/v4/status"
-	"github.com/mcstatus-io/mcutil/v4/util"
+	"github.com/gaogao-qwq/mcutil/v4/options"
+	"github.com/gaogao-qwq/mcutil/v4/status"
+	"github.com/gaogao-qwq/mcutil/v4/util"
 )
 
 func TestModern(t *testing.T) {
